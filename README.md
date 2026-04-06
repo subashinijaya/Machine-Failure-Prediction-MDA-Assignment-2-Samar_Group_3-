@@ -1,5 +1,4 @@
-# 🏭 Machine Failure Prediction – MDA512 Group Project
-
+# 🏭 Machine Failure Prediction
 This project is part of the MDA512 Data Science subject, focused on developing a business model for efficient operations. Our goal is to predict the risk of machine failure in industrial environments using real sensor data and classification models.
 
 ## 📊 Dataset
@@ -26,8 +25,4 @@ Gradient Boosting performed best with the highest F1-score and lowest misclassif
 ```bash
 pip install -r requirements.txt
 
-👥 Contributors
-1) MIT241420      Vishnu Vardhan Reddy Karimi Reddy
-2) MIT242080      Sai Shreya Panthangi
-3) MIT240229      Anne Subhasini
 4) MIT243948      Amar Nath Barman
